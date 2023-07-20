@@ -3,4 +3,4 @@ services:
   web:
   image: amitxeny/django-todo:latest
     ports:
-      - "8000:8000"
+      - "8001:8001"
