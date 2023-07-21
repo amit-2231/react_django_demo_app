@@ -1,6 +1,6 @@
-version : '3.9'
+version : '3.3'
 services :
   web :
-  image : amitxeny/django-todo:latest
+  image : amitxeny/my-node-app:latest
     ports :
       - "8000:8000"
